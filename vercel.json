@@ -1,6 +1,6 @@
 {
     "functions": {
-        "index.html": {
+        "src/App.jsx": {
             "maxDuration": 60
         }
     }
